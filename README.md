@@ -20,3 +20,14 @@ In order to replicate the results, you simply need to run the following scripts 
 3. `03_iv_model.R` : runs core IV and OLS models 
 
 4. `04_iv_model_extensions.R` : runs additional extension IV models
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
